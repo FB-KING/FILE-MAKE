@@ -1,6 +1,6 @@
 ## NEW FILE MAKING LATEST COMMAND
-##__________________
-___FILE MAKE REVIEW___</br>
+##--------------------------------
+##___FILE MAKE REVIEW___</br>
 <img src="https://github.com/FB-KING/FILE-MAKE/blob/main/lv-0-20230223013435.GIF" />
 ## Run Command 
 `pkg install python`
